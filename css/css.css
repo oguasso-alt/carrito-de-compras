@@ -70,7 +70,7 @@
 .hero {
   position: relative;
   height: 55vh;
-  background-image: url(https://tiendacloud02.blob.core.windows.net/imagenesomarguasso/rectangular-black-perfume-bottle-sharp-intense-shadow-background-ai-generated-image_1211788-2021.avif); 
+  background-image: url("https://tiendacloud02.blob.core.windows.net/imagenesomarguasso/rectangular-black-perfume-bottle-sharp-intense-shadow-background-ai-generated-image_1211788-2021.avif"); 
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
